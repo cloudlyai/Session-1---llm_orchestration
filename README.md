@@ -1,4 +1,4 @@
-# Session 1 — LLM Orchestration
+# Session 2 — LLM Orchestration
 
 Part of the **AI Engineering Course** — a hands-on video course for software engineers transitioning into AI engineering. This session covers the fundamentals of making calls to LLMs and chaining multiple providers together.
 
